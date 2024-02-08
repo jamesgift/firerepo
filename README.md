@@ -1,0 +1,2 @@
+# firerepo
+this is my first Git repository
